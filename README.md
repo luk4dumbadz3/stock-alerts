@@ -2,6 +2,9 @@
 
 A straightforward Python script that monitors Apple (AAPL) stock price and fetches relevant news when significant changes occur.
 
+## Test
+This is a test commit to verify GitHub connection.
+
 ## Features
 
 - Fetches daily stock prices from Alpha Vantage API
